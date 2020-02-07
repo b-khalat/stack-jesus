@@ -1,3 +1,11 @@
-console.log('its gonna be something, some day, or maybe not');
+function Stack (size) {
+    this.size = size;
+    this.a = new Array(this.size);
+    this.lastItem = -1;
+}
 
-console.log('hey')
+Stack.prototype.push = function(item) {
+    this.a[++this.lastItem] = item;
+};
+
+module.exports = Stack;
