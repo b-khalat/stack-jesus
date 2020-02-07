@@ -1,0 +1,23 @@
+{
+  "name": "stack-jesus",
+  "version": "0.0.1",
+  "description": "dont use it",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b-khalat/stack-jesus.git"
+  },
+  "keywords": [
+    "stack",
+    "stack-data-structure"
+  ],
+  "author": "behtash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b-khalat/stack-jesus/issues"
+  },
+  "homepage": "https://github.com/b-khalat/stack-jesus#readme"
+}
